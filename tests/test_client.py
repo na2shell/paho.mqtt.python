@@ -8,6 +8,7 @@ import pytest
 import paho.mqtt.client as client
 
 # From http://stackoverflow.com/questions/279237/python-import-a-module-from-a-folder
+# insert
 cmd_subfolder = os.path.realpath(
     os.path.abspath(
         os.path.join(
